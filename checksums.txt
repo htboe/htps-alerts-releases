@@ -1,0 +1,2 @@
+097fe836bf176ef0cb3ad4a667e23a8f41ae5ba82f72c530d16d0e8cfb06a58c  htps-alerts-mac-apple-silicon.zip
+3e51f99e7683985b4ead56bdd0baad01b5934704255fd983f5809487f84b39f9  htps-alerts-mac-intel.zip
